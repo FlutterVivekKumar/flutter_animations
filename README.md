@@ -1,16 +1,13 @@
 # animation
 
-A new Flutter project.
+Flutter Custom Animations.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+| #1 | #2 |  #3 | #4  | #5  |  #6 |
+| --- | --- |  --- |  --- |  --- |  --- |
+| ![](https://github.com/FlutterVivekKumar/flutter_animations/blob/main/media/trans%20nav.gif) | ![](https://github.com/FlutterVivekKumar/flutter_animations/blob/main/media/trans2%20nav.gif) | ![](https://github.com/FlutterVivekKumar/flutter_animations/blob/main/media/scaled%20dialog.gif) | ![](https://github.com/FlutterVivekKumar/flutter_animations/blob/main/media/slide%20down%20dialog.gif) | ![](https://github.com/FlutterVivekKumar/flutter_animations/blob/main/media/spinning%20dialog.gif) | ![](https://github.com/FlutterVivekKumar/flutter_animations/blob/main/media/custom%20progress%20dialog.gif) |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
